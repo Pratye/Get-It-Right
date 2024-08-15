@@ -19,6 +19,6 @@ MIT app inventor,MIT Personal image classifier , Machine learning, Deep learning
 4. Start your assessment by allowing the app to access the camera of your mobile and take the pose by keeping the mobile at a fair distance for the model to work.
 5. Enjoy the assessment!
 
-#App Images
+# App Images:
 <img src="/images/1.png" width="300"/>  <img src="/images/2.png" width="300"/>
 <img src="/images/3.png" width="300"/>  <img src="/images/4.png" width="300"/>
